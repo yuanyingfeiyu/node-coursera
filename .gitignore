@@ -1,0 +1,9 @@
+mongodb
+server/node_modules/
+conFusionServer/node_modules/
+json-server/node_modules/
+node-mongo/node_modules/
+node-mongoose/node_modules/
+React
+
+.DS_Store
