@@ -1,4 +1,6 @@
-mongodb
+mongodb/mongodb-macos-x86_64-4.2.7
+mongodb/mongodb-macos-x86_64-4.2.7.tgz
+mongodb/data/
 server/node_modules/
 conFusionServer/node_modules/
 json-server/node_modules/
